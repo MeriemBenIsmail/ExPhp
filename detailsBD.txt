@@ -1,0 +1,4 @@
+la base de données "tpphp" contient deux tables: 
+
+users : id(primary key)(int)(Auto incrementadd) ,username (varchar)et password (varchar)
+person: cin (primary key)(int), firstname(varchar), lastname(varchar), section(varchar), age(int) et image( BLOB)
